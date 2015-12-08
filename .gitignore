@@ -2,7 +2,7 @@
 *.slo
 *.lo
 *.o
-*.obj
+*.obj你不不能
 
 # Precompiled Headers
 *.gch
